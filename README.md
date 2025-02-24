@@ -38,10 +38,3 @@ Follow the prompts to place your order. The total amount will be displayed at th
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to adjust the content to better match your project's specifics or personal preferences.
